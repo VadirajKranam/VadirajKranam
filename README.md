@@ -12,4 +12,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VadirajKranam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![VadirajKranam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VadirajKranam)](https://github.com/anuraghazra/github-readme-stats)
