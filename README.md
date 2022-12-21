@@ -9,3 +9,5 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VadirajKranam&langs_count=5&theme=tokyonight)]()
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VadirajKranam)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VadirajKranam)](https://github.com/ryo-ma/github-profile-trophy)
