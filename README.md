@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning REACT,AI/ML
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me https://www.linkedin.com/in/vadiraj-karanam-596145212/
-https://github-readme-stats.vercel.app/api?username=VadirajKranam
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VadirajKranam&count_private=true&theme=tokyonight&showicons=true)]()
