@@ -12,4 +12,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VadirajKranam)](https://github.com/ryo-ma/github-profile-trophy)
 
-![VisitorCount](https://profile-counter.glitch.me/{VadirajKranam}/count.svg)
+
