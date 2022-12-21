@@ -12,5 +12,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VadirajKranam)](https://github.com/ryo-ma/github-profile-trophy)
 
-<td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=VadirajKranam&custom_title=My%20Weekly%20Stats&layout=compact&theme=highcontrast" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
+[![VadirajKranam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VadirajKranam)](https://github.com/anuraghazra/github-readme-stats)
