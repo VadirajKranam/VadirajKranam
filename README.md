@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me https://www.linkedin.com/in/vadiraj-karanam-596145212/
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=VadirajKranam&count_private=true&theme=tokyonight&showicons=true)]()
+[![Vadiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadirajKranam)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadirajKranam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
