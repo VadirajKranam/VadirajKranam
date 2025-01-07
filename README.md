@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadirajKranam&layout=compact)](https://github.com/VadirajKranam/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VadirajKranam)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VadirajKranam&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VadirajKranam)](https://github.com/ryo-ma/github-profile-trophy)
 
